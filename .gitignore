@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+**/cmake-build-*
+**/.idea/*
+**.kdev4
+**/build/*
+**.kdev4/*
